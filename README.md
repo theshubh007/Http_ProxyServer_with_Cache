@@ -39,15 +39,15 @@ This project is implemented using `C++` and Parsing of HTTP referred from <a hre
   ```
 
 ## Output
-1. Demo
 <p float="left">
-  <img src="/path/to/Screenshot from 2024-03-30 23-54-06.png" width="100" />
-  <img src="/path/to/Screenshot from 2024-03-30 23-54-49.png" width="100" /> 
+  <img src="./Pictures/demo.png" width="100" />
+  <img src="./Pictures/demoout.png" width="100" /> 
 </p>
 
 2.Debugging (printing http request)
 
 <p float="left">
-  <img src="/path/to/Screenshot from 2024-03-30 23-49-18.png" width="100" />
-  <img src="/path/to/Screenshot from 2024-03-30 23-55-14.png" width="100" /> 
+  <img src="./Pictures/debug.png" width="100" />
+  <img src="./Pictures/debufout.png" width="100" /> 
 </p>
+
