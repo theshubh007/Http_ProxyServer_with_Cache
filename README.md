@@ -40,14 +40,14 @@ This project is implemented using `C++` and Parsing of HTTP referred from <a hre
 
 ## Output
 <p float="left">
-  <img src="./Pictures/demo.png" width="100" />
-  <img src="./Pictures/demoout.png" width="100" /> 
+  <img src="./Pictures/demo.png" width="500" />
+  <img src="./Pictures/demoout.png" width="500" /> 
 </p>
 
 2.Debugging (printing http request)
 
 <p float="left">
-  <img src="./Pictures/debug.png" width="100" />
-  <img src="./Pictures/debufout.png" width="100" /> 
+  <img src="./Pictures/debug.png" width="500" />
+  <img src="./Pictures/debufout.png" width="500" /> 
 </p>
 
