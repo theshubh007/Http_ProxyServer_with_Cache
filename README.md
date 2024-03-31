@@ -39,8 +39,8 @@ This project is implemented using `C++` and Parsing of HTTP referred from <a hre
   ```
 
 ## Output
-![alt text](<Screenshot from 2024-03-30 23-54-06.png>)
+![alt text](<Screenshot from 2024-03-30 23-54-06.png>)          ![alt text](<Screenshot from 2024-03-30 23-55-14.png>)
 
 2.Debugging (printing http request)
 
-![alt text](<Screenshot from 2024-03-30 23-49-18.png>)
+![alt text](<Screenshot from 2024-03-30 23-49-18.png>)          ![alt text](<Screenshot from 2024-03-30 23-54-49.png>)
