@@ -37,3 +37,10 @@ This project is implemented using `C++` and Parsing of HTTP referred from <a hre
      $ make all
      $ ./main
   ```
+
+## Output
+![alt text](<Screenshot from 2024-03-30 23-54-06.png>)
+
+2.Debugging (printing http request)
+
+![alt text](<Screenshot from 2024-03-30 23-49-18.png>)
